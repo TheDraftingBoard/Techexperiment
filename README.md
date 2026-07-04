@@ -28,13 +28,13 @@ So I decided to build our own.
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/01_Dashboard.png)
+![Dashboard](01_Dashboard.png)
 
 ### Comparison
-![Comparison](screenshots/02_Comparison.png)
+![Comparison](02_Comparison.png)
 
 ### Features
-![Features](screenshots/03_Features.png)
+![Features](03_Features.png)
 
 ---
 
